@@ -68,7 +68,9 @@ const Register = () => {
 							</div>
 							<p className="py-6  text-center">
 								<span className="text-gray-600 mr-1">New Here?</span>
-								<Link to="/login" className="hover:text-[#20b2aa]">
+								<Link
+									to="/register"
+									className="hover:text-[#20b2aa]">
 									Register
 								</Link>
 							</p>
